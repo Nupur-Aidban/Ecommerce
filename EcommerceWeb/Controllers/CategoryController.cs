@@ -1,6 +1,6 @@
-﻿using EcommerceWeb.Data;
-using Microsoft.AspNetCore.Mvc;
-using EcommerceWeb.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using ECommerce.Models;
+using ECommerce.DataAccess.Data;
 
 namespace EcommerceWeb.Controllers
 {
